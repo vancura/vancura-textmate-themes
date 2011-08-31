@@ -20,7 +20,7 @@
 				<key>lineHighlight</key>
 				<string>#F2F8FE73</string>
 				<key>selection</key>
-				<string>#F0C93680</string>
+				<string>#F0C936</string>
 			</dict>
 		</dict>
 		<dict>
@@ -301,7 +301,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold underline</string>
+				<string>bold</string>
 				<key>foreground</key>
 				<string>#E12B1F</string>
 			</dict>
@@ -314,7 +314,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold underline</string>
+				<string>bold</string>
 				<key>foreground</key>
 				<string>#AE81FF</string>
 			</dict>
@@ -327,7 +327,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold underline</string>
+				<string>bold</string>
 				<key>foreground</key>
 				<string>#2A9A66</string>
 			</dict>
@@ -355,7 +355,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold underline</string>
+				<string>bold</string>
 				<key>foreground</key>
 				<string>#376FC3</string>
 			</dict>
@@ -368,7 +368,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold underline</string>
+				<string>bold</string>
 				<key>foreground</key>
 				<string>#4F9B00</string>
 			</dict>
@@ -668,7 +668,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold underline</string>
+				<string>bold</string>
 				<key>foreground</key>
 				<string>#519A58</string>
 			</dict>
@@ -707,7 +707,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>underline</string>
+				<string></string>
 				<key>foreground</key>
 				<string>#D2261B</string>
 			</dict>
